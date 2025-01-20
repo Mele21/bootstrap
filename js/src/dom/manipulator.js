@@ -4,6 +4,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  * --------------------------------------------------------------------------
  */
+console.log("yihe yene contribution new");
 
 function normalizeData(value) {
   if (value === 'true') {
